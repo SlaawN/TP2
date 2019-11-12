@@ -14,7 +14,7 @@ __published:	// IDE-managed Components
 private:	// User declarations
 public:		// User declarations
 	__fastcall TForm1(TComponent* Owner);
-	//LANGLACE
+	//LANGLACE      je bose local
 };
 //---------------------------------------------------------------------------
 extern PACKAGE TForm1 *Form1;
